@@ -1,13 +1,16 @@
 Request for New Realm
 =====================
 
-Id: asd
+Id: 
 
-Name: 
+Short Name: 
 
 Description:
 
-Ministry:
+Ministry: 
+
+Products:
+- <name of a products using it>
 
 Authentication Providers:
 - [ ] IDIR
