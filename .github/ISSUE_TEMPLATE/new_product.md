@@ -23,4 +23,4 @@ Instructions:
 Lead Developers get access to the *bcgov* + *bcdevops* organizations
 Developers only get access tp *bcgov* organization
 
-*GitHub usernames are case sensitive*
+IMPORTANT: *GitHub usernames are case sensitive*
