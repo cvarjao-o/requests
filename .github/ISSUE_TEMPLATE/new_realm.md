@@ -25,7 +25,7 @@ Environments: <!--- Select the desired environments --->
 Product Owner: <IDIR username>
 
 Administrators: <!--- administrators MUST be an IDIR username ---> 
-- <IDIR username>
+- idir\<username>
 
 Instructions
 -------------
