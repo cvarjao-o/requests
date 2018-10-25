@@ -1,0 +1,50 @@
+kind: Template
+metadata:
+  name: tfrs
+labels:
+  category: venture
+  product: ${NAME}
+  team: MEM
+  status: active
+parameters:
+- name: ID
+  vame: mem-tfrs
+- name: NAME
+  vame: mem-tfrs
+- name: DESCRIPTION
+  vame: Transportation Fuel Reporting System
+- name: DISPLAY_NAME
+  vame: TFRS
+objects:
+  - kind: Project
+    name: ${ID}-tools
+    metadata:
+      labels:
+        environment: tools
+    annotations:
+      openshift.io/description: ${DESCRIPTION} (tools)
+      openshift.io/display-name: ${DISPLAY_NAME} (tools)
+  - kind: Project
+    name: ${ID}-dev
+    metadata:
+      labels:
+        environment: dev
+    annotations:
+      openshift.io/description: ${DESCRIPTION} (dev)
+      openshift.io/display-name: ${DISPLAY_NAME}  (dev)
+  - kind: Project
+    name: ${ID}-test
+    metadata:
+      labels:
+        environment: test
+    annotations:
+      openshift.io/description: ${DESCRIPTION} (test)
+      openshift.io/display-name: ${DISPLAY_NAME}  (test)
+  - kind: Project
+    name: ${ID}-prod
+    metadata:
+      labels:
+        environment: prod
+    annotations:
+      openshift.io/description: ${DESCRIPTION} (prod)
+      openshift.io/display-name: ${DISPLAY_NAME}  (prod)
