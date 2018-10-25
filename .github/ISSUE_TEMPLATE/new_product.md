@@ -5,10 +5,10 @@ Short Name:
 
 Full Name:
 
-Product Owner:
+Business Product Owner:
 - "John Doe" <john.doe@example.com>
 
-Technical Owner:
+Technical Product Owner:
 - "John Doe" <john.doe@example.com>
 
 Lead Developers:
