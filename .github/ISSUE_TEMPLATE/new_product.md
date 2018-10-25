@@ -17,10 +17,15 @@ Lead Developers:
 Developers:
 - _GitHub username_
 
+Environments: Pick *only* one
+- [ ] (Standard) tools + dev + test + prod
+- [ ] (Sandbox) tools + deploy
+- [ ] (POC) tools + deploy
+
 Instructions:
 -------------
 
 Lead Developers get access to the *bcgov* + *bcdevops* organizations
-Developers only get access tp *bcgov* organization
+Developers only get access to *bcgov* organization
 
 IMPORTANT: *GitHub usernames are case sensitive*
