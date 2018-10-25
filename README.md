@@ -13,7 +13,7 @@ Requests:
 
 Product or System
 ------------------
-- [New Product](./issues/new?template=new-product.ms)
+- [New Product](../../issues/new?template=new-product.ms)
 
 Shared Systems:
 ---------------
