@@ -1,21 +1,9 @@
-# sso-configuration
+# Requests
 
+- [New Product](../../issues/new?template=new_product.md)
+- [New Team](../../issues/new?template=new_team.md)
+- [Onboard Team Member(s)](../../issues/new?template=onboard_team_members.md)
+- [Offboard Team Member(s)](../../issues/new?template=offboard_team_members.md)
 
-A [team](#team) is resposible for one or more [Product](https://pages.github.com/).
-A product MUST be managed by 1 team.
-
-
-Team
-----
-
-Requests:
-- [New Product](../../issues/new?template=new_team.ms)
-
-Product or System
-------------------
-- [New Product](../../issues/new?template=new_product.ms)
-
-Shared Systems:
----------------
-
-### Single Sign-On
+# Shared Systems & Services
+- [New SSO Realm](../../issues/new?template=new_sso_realm.md)
