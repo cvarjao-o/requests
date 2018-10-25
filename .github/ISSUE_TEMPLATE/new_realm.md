@@ -7,10 +7,7 @@ Name:
 
 Description:
 
-Ministry: 
-
-Products:
-- <name of a products using it>
+Ministry:
 
 Authentication Providers:
 - [ ] IDIR
