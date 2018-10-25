@@ -1,12 +1,18 @@
-# Request for New Realm
-Name:
+Request for New Realm
+=====================
 
-Ministry:
+Id: asd
+
+Name: 
+
+Description:
+
+Ministry: 
 
 Products:
 - <name of a products using it>
 
-Authentication Providers
+Authentication Providers:
 - [ ] IDIR
 - [ ] BCeID
 - [ ] GitHub <!--- Only supported for development environments ---> 
@@ -16,6 +22,10 @@ Environments: <!--- Select the desired environments --->
 - [ ] Test
 - [ ] Production
 
-Administrators: <!--- administrators MUST be an idir username ---> 
+Product Owner: <IDIR username>
+
+Administrators: <!--- administrators MUST be an IDIR username ---> 
 - <IDIR username>
 
+Instructions
+-------------
