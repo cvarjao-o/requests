@@ -9,11 +9,11 @@ Team
 ----
 
 Requests:
-- [New Team](https://pages.github.com/)
+- [New Product](../../issues/new?template=new_team.ms)
 
 Product or System
 ------------------
-- [New Product](../../issues/new?template=new-product.ms)
+- [New Product](../../issues/new?template=new_product.ms)
 
 Shared Systems:
 ---------------
