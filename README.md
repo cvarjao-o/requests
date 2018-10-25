@@ -4,4 +4,4 @@
 - [New Team](../../issues/new?template=new_team.md&title=New+Team)
   - [Onboard Team Member(s)](../../issues/new?template=onboard_team_members.md&title=Onboard+Team+Member)
   - [Offboard Team Member(s)](../../issues/new?template=offboard_team_members.md&title=Offboard+Team+Member)
-- [New SSO Realm](../../issues/new?template=new_sso_realm.md)
+- [New SSO Realm](../../issues/new?template=new_sso_realm.md&title=New+Realm&labels[]=[Type]%20New%20SSO%20Realm)
